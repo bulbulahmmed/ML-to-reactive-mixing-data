@@ -1,1 +1,1 @@
-# ML-to-reactive-mixing-data
+# ML codes for reactive-mixing paper
