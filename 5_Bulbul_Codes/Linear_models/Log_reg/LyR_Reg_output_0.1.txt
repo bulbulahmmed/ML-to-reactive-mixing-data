@@ -1,0 +1,9 @@
+Test data is: 0.100000
+Training score is: 0.754316
+Testing score is: 0.754004
+Time taken by this process: 174.132458
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=50,
+                   multi_class='multinomial', n_jobs=32, penalty='l2',
+                   random_state=42, solver='sag', tol=0.0001, verbose=1,
+                   warm_start=False)

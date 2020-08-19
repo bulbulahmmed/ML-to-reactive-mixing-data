@@ -1,0 +1,6 @@
+Test data is: 0.100000
+Training score is: 0.693178
+Testing score is: 0.693190
+Time taken by this process: 195.241099
+HuberRegressor(alpha=0.0001, epsilon=1.9, fit_intercept=True, max_iter=50,
+               tol=1e-05, warm_start=False)

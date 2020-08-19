@@ -1,0 +1,6 @@
+Test data is: 0.300000
+Training score is: 0.693229
+Testing score is: 0.693384
+Time taken by this process: 42.712510
+Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter='50',
+      normalize=False, random_state=42, solver='auto', tol=0.001)

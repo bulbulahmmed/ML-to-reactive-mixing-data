@@ -1,0 +1,3 @@
+Best estimator:  {'max_iter': 50, 'multi_class': 'multinomial', 'solver': 'sag', 'tol': 0.0001}
+Best test score:  0.752572275332942
+

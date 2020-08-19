@@ -1,0 +1,6 @@
+Test data is: 0.300000
+Training score is: 0.722837
+Testing score is: 0.723744
+Time taken by this process: 93.468623
+LinearDiscriminantAnalysis(n_components=None, priors=None, shrinkage=None,
+                           solver='svd', store_covariance=False, tol=0.0001)

@@ -1,0 +1,13 @@
+Test data is: 0.010000
+Training score is: 0.693296
+Testing score is: 0.691246
+Time taken by this process: 119.238155
+GridSearchCV(cv=10, error_score='raise-deprecating',
+             estimator=Ridge(alpha=1.0, copy_X=True, fit_intercept=True,
+                             max_iter=None, normalize=False, random_state=42,
+                             solver='auto', tol=0.001),
+             iid=False, n_jobs=32,
+             param_grid={'alpha': [1.0, 100.0, 1000.0],
+                         'max_iter': [50, 300, 1000]},
+             pre_dispatch='2*n_jobs', refit=True, return_train_score=False,
+             scoring=None, verbose=0)

@@ -1,0 +1,22 @@
+Test data is: 0.100000
+Training score is: 0.750156
+Testing score is: 0.749037
+Time taken by this process: 498.818444
+GridSearchCV(cv=10, error_score='raise-deprecating',
+             estimator=SGDClassifier(alpha=0.0001, average=False,
+                                     class_weight=None, early_stopping=True,
+                                     epsilon=0.1, eta0=0.0, fit_intercept=True,
+                                     l1_ratio=0.15, learning_rate='optimal',
+                                     loss='hinge', max_iter=1000,
+                                     n_iter_no_change=5, n_jobs=None,
+                                     penalty='l2', power_t=0.5, random_state=42,
+                                     shuffle=True, tol=0.001,
+                                     validation_fraction=0.1, verbose=0,
+                                     warm_start=False),
+             iid=False, n_jobs=32,
+             param_grid={'loss': ['hinge', 'log', 'modified_huber',
+                                  'squared_hinge', 'perceptron'],
+                         'max_iter': [100, 500, 1000, 10000],
+                         'penalty': ['none', 'l1', 'l2', 'elasticnet']},
+             pre_dispatch='2*n_jobs', refit=True, return_train_score=False,
+             scoring=None, verbose=0)

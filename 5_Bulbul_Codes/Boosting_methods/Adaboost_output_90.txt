@@ -1,0 +1,6 @@
+Test data is: 0.100000
+Training score is: 0.894845
+Testing score is: 0.895188
+Time taken by this process: 1585.496585
+AdaBoostRegressor(base_estimator=None, learning_rate=1, loss='square',
+                  n_estimators=100, random_state=42)

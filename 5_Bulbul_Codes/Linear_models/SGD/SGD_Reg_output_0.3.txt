@@ -1,0 +1,10 @@
+Test data is: 0.300000
+Training score is: 0.693161
+Testing score is: 0.693298
+Time taken by this process: 91.866089
+SGDRegressor(alpha=0.0001, average=False, early_stopping=True, epsilon=0.1,
+             eta0=0.01, fit_intercept=True, l1_ratio=0.15,
+             learning_rate='invscaling', loss='squared_loss', max_iter=100,
+             n_iter_no_change=5, penalty='l2', power_t=0.25, random_state=42,
+             shuffle=True, tol=0.001, validation_fraction=0.1, verbose=0,
+             warm_start=False)

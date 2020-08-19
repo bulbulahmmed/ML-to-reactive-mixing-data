@@ -1,0 +1,5 @@
+Test data is: 0.100000
+Training score is: 0.736470
+Testing score is: 0.734838
+Time taken by this process: 91.121071
+GaussianNB(priors=None, var_smoothing=1e-09)

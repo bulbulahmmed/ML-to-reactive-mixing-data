@@ -1,0 +1,18 @@
+Test data is: 0.300000
+Training score is: 0.999999
+Testing score is: 0.999996
+Time taken by this process: 1648.181954
+AdaBoostRegressor(base_estimator=DecisionTreeRegressor(criterion='mse',
+                                                       max_depth=None,
+                                                       max_features=5,
+                                                       max_leaf_nodes=None,
+                                                       min_impurity_decrease=0.0,
+                                                       min_impurity_split=None,
+                                                       min_samples_leaf=1,
+                                                       min_samples_split=2,
+                                                       min_weight_fraction_leaf=0.0,
+                                                       presort=False,
+                                                       random_state=None,
+                                                       splitter='best'),
+                  learning_rate=1, loss='square', n_estimators=100,
+                  random_state=42)

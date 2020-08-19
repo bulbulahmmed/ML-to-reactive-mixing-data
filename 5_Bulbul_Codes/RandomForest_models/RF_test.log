@@ -1,0 +1,6 @@
+Inputs: Training and test data size =  (1620500, 6) (694500, 6)
+Outputs: Training and test data size =  (1620500,) (694500,)
+/home/ahmmedb/.local/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/ahmmedb/.local/lib/python3.6/site-packages/joblib/externals/loky/backend/semaphore_tracker.py:198: UserWarning: semaphore_tracker: There appear to be 78 leaked semaphores to clean up at shutdown
+  len(cache))

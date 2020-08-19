@@ -1,0 +1,14 @@
+Test data is: 0.010000
+Training score is: 0.693199
+Testing score is: 0.691110
+Time taken by this process: 286.022643
+GridSearchCV(cv=10, error_score='raise-deprecating',
+             estimator=HuberRegressor(alpha=0.0001, epsilon=1.35,
+                                      fit_intercept=True, max_iter=100,
+                                      tol=1e-05, warm_start=False),
+             iid=False, n_jobs=32,
+             param_grid={'alpha': [0.0001, 1e-05],
+                         'epsilon': [1.35, 1.5, 1.75, 1.9],
+                         'max_iter': [10, 50, 100]},
+             pre_dispatch='2*n_jobs', refit=True, return_train_score=False,
+             scoring=None, verbose=0)

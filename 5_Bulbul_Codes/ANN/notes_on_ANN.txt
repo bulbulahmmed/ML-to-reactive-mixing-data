@@ -1,0 +1,2 @@
+# Notes that encountered while I was running ANN code
+SGD does not converge on 100 and 200 iterations.

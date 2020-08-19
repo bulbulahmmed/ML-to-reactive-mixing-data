@@ -1,0 +1,5 @@
+Test data is: 0.990000
+Training score is: 0.893576
+Testing score is: 0.892050
+Time taken by this process: 78.897100
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)

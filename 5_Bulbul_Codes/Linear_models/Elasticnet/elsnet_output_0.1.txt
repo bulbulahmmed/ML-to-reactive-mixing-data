@@ -1,0 +1,10 @@
+Test data is: 0.100000
+Training score is: 0.693275
+Testing score is: 0.693281
+Time taken by this process: 1226.726751
+ElasticNetCV(alphas=array([1.00000000e-04, 1.00269086e-04, 1.00538896e-04, ...,
+       3.14532762e-01, 3.15379125e-01, 3.16227766e-01]),
+             copy_X=True, cv=10, eps=0.001, fit_intercept=True, l1_ratio=0.5,
+             max_iter=10000, n_alphas=100, n_jobs=None, normalize=False,
+             positive=False, precompute='auto', random_state=42,
+             selection='cyclic', tol=0.0001, verbose=0)

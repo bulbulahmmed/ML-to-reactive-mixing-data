@@ -1,0 +1,6 @@
+Test data is: 0.990000
+Training score is: 0.779827
+Testing score is: 0.776967
+Time taken by this process: 66.573778
+QuadraticDiscriminantAnalysis(priors=None, reg_param=0.0,
+                              store_covariance=False, tol=0.0001)

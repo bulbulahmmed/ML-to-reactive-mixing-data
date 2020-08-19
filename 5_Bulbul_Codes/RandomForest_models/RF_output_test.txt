@@ -1,0 +1,5 @@
+n_estimators are 1000
+max_features are 4
+Number of processors is 32
+Training score is: 1.000000
+Testing score is: 0.987218

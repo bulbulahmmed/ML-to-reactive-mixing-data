@@ -1,0 +1,7 @@
+Test data is: 0.990000
+Training score is: 0.696401
+Testing score is: 0.693218
+Time taken by this process: 12.079513
+BayesianRidge(alpha_1=1e-06, alpha_2=1e-06, compute_score=True, copy_X=True,
+              fit_intercept=True, lambda_1=1e-06, lambda_2=1e-06, n_iter=100,
+              normalize=False, tol=0.001, verbose=False)

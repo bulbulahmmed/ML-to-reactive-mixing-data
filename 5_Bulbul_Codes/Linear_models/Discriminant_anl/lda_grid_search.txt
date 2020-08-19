@@ -1,0 +1,18 @@
+Test data is: 0.010000
+Training score is: 0.723084
+Testing score is: 0.724795
+Time taken by this process: 262.733540
+GridSearchCV(cv=10, error_score='raise-deprecating',
+             estimator=LinearDiscriminantAnalysis(n_components=None,
+                                                  priors=None, shrinkage=None,
+                                                  solver='svd',
+                                                  store_covariance=False,
+                                                  tol=0.0001),
+             iid=False, n_jobs=32,
+             param_grid={'solver': ['svd', 'lsqr', 'eigen']},
+             pre_dispatch='2*n_jobs', refit=True, return_train_score=False,
+             scoring=None, verbose=0)
+Best estimator:  {'solver': 'svd'}
+Best test score:  0.7231009871293874
+0.7230844077928311 0.7247948164146868
+
